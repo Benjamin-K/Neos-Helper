@@ -1,5 +1,5 @@
 <?php
-namespace InduLight\Website\ViewHelpers\Uri;
+namespace Neos\Helpers\ViewHelpers\Uri;
 
 /*                                                                        *
  * This script belongs to the TYPO3 Flow package "TYPO3.Fluid".           *

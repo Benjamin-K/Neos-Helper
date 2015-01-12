@@ -1,5 +1,5 @@
 <?php
-namespace InduLight\Website\ViewHelpers\Format;
+namespace Neos\Helpers\ViewHelpers\Format;
 
 /*                                                                                 *
  * This script belongs to the TYPO3 Flow package "Your.Package.                    *

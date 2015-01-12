@@ -1,5 +1,5 @@
 <?php
-namespace InduLight\Website\ViewHelpers\File;
+namespace Neos\Helpers\ViewHelpers\File;
 
 /*                                                                                 *
  * This script belongs to the TYPO3 Flow package "Your.Package.                    *
